@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️ Cybersecurity student at COMSATS Islamabad with SOC, SIEM, firewall, Forensics & Red-Teaming experience.<br>🔧 Currently working on: SOC skills using Wazuh SIEM, and Red Team security labs.<br>🤝 looking to collaborate on: Cybersecurity projects, SOC labs, CTFs, web dev & UI/UX 🎨<br>🌐 Explore more work on: https://maazansari.vercel.app
+🛡️ Cybersecurity student at COMSATS Islamabad with SOC, SIEM, firewall, Forensics & Red-Teaming experience.<br>🔧 Currently working on: SOC skills using Wazuh SIEM, and Red Team security labs.<br>🤝 looking Forward to collaborate on: Cybersecurity projects,DFIR Work, SOC labs, CTFs, web dev & UI/UX 🎨<br>🌐 Explore more work on: https://maazansari.vercel.app
 
 
 ## 🌐 Socials:
