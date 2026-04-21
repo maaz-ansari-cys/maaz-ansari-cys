@@ -1,9 +1,24 @@
 # 💫 About Me:
-🛡️ Cybersecurity student at COMSATS University Islamabad with hands-on lab experience in
-<br>~ SIEM (Wazuh)
-<br>~ Firewall (PfSense)
-<br>~ Digital Forensics
-<br>~ Web Security (CTFs & PortSwigger labs).<br>🔧 Currently working on: SOC skills using Wazuh SIEM, and Exploring Red Team security labs.<br>🤝 looking Forward to collaborate on: Cybersecurity projects, DFIR Work, SOC labs, CTFs, web dev & UI/UX 🎨<br>🌐 Explore more work on: https://maazansari.vercel.app
+🕵️‍♂️ Cybersecurity student at COMSATS University Islamabad with hands-on experience in security labs and practical tools.<br>
+
+🔐 Skills & Focus<br>
+• SIEM: Wazuh (log analysis & monitoring)<br>
+• Firewall: pfSense<br>
+• Digital Forensics & Incident Response (DFIR)<br>
+• Web Security: CTFs & PortSwigger labs<br>
+
+💻 Currently Working On<br>
+• SOC skill development using Wazuh SIEM<br>
+• Exploring Red Teaming labs and offensive security<br>
+
+🤝 Interests<br>
+• Open to collaboration on Cybersecurity projects<br>
+• DFIR & SOC labs<br>
+• CTF challenges<br>
+• Web Development & UI/UX projects 🎨<br>
+
+🌐 Portfolio:<br>
+https://maazansari.vercel.app
 
 
 ## 🌐 Socials:
