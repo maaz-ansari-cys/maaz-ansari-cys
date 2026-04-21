@@ -15,7 +15,7 @@
 • Open to collaboration on Cybersecurity projects<br>
 • DFIR & SOC labs<br>
 • CTF challenges<br>
-• Web Development & UI/UX projects 🎨<br>
+• Web Development & UI/UX projects <br>
 
 🌐 Portfolio:<br>
 https://maazansari.vercel.app
